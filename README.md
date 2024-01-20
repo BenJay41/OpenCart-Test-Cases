@@ -1,6 +1,6 @@
 # Open Cart Test Cases Repository
 
-Welcome to the Amazon Test Cases Repository! This repository is dedicated to documenting and organizing test cases related to various aspects of Amazon's functionality.
+Welcome to the Open Cart Test Cases Repository! This repository is dedicated to documenting and organizing test cases related to various aspects of Open Cart's functionality.
 
 ## Table of Contents
 
