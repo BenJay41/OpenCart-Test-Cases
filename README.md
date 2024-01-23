@@ -18,6 +18,7 @@ This repository serves as a central hub for storing and maintaining test cases t
 
 - [Login Page](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/open%20cart%20login.xlsx)
 - [Account Registration Page](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/open%20cart%20registration%20page.xlsx)
+- [Search Functionality](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/search%20functionality.xlsx)
 
 Feel free to explore each category for detailed test cases and scenarios.
 
@@ -31,8 +32,9 @@ Feel free to explore each category for detailed test cases and scenarios.
 
 ## File Structure
 
-- **[Login](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/open%20cart%20login.xlsx):** Test cases related to the Amazon login page.
+- **[Login](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/open%20cart%20login.xlsx):** Test cases related to the login page.
 - **[Account Registration Page](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/open%20cart%20registration%20page.xlsx):** Test cases related to Account Registration Page.
+- **[Search Functionality](https://github.com/BenJay41/OpenCart-Test-Cases/blob/main/search%20functionality.xlsx):** Test cases related to Search Page.
 
 
 ## License
