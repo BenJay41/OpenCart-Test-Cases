@@ -11,7 +11,7 @@ Welcome to the Open Cart Test Cases Repository! This repository is dedicated to 
 
 ## Overview
 
-This repository serves as a central hub for storing and maintaining test cases that cover different scenarios within the Amazon platform. The goal is to provide a comprehensive set of test cases that can be used for testing and quality assurance purposes.
+This repository serves as a central hub for storing and maintaining test cases that cover different scenarios within the Open Cart platform. The goal is to provide a comprehensive set of test cases that can be used for testing and quality assurance purposes.
 
 
 ## Test Case Categories
